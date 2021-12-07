@@ -1,0 +1,9 @@
+.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.sucesso{
+    margin-top: 25px;
+}
