@@ -2,4 +2,4 @@
 📝 Calculadora utilizando PHP puro
 
 
-![Alt text](https://imgur.com/a/DgKkp9O "Calc")
+![Alt text](https://i.imgur.com/LJMbEIR_d.webp?maxwidth=760&fidelity=grand"Calc")
